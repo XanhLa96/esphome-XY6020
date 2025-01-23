@@ -58,10 +58,10 @@ packages:
       yml/sensors.yaml,
       yml/numbers.yaml,
       yml/switches.yaml,
-      yml/text_senssor.yaml,
+      yml/text_sensors.yaml,
       yml/uart_sinilink.yaml,
-      Language/german.yaml,
-      #Language/english.yaml,
+      #Language/german.yaml,
+      Language/english.yaml,
       #yml/test/M1.yaml,
       #yml/test/M2.yaml,
        ]
